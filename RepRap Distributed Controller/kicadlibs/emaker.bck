@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RELAY-SPDT
+D G5LA-SPDT
+$ENDCMP
+#
+$CMP SSR_AC_8PIN
+D AQH1213AJ
+K SSR
+$ENDCMP
+#
+#End Doc Library

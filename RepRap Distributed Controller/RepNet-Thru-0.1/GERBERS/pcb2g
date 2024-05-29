@@ -1,0 +1,1 @@
+pcb2gcode --metric --zwork -0.2 --zsafe 2 --offset 0.2 --mill-feed 100 --mill-speed 10000 --cutter-diameter 0.5 --zcut -0.2 --cut-feed 100 --cut-speed 12000 --zdrill -2 --drill-feed 100 --drill-speed 14000 --zchange 10 --basename dr --nog81 --metricoutput --back RepNet-Thru-B_Cu.gbl --drill RepNet-Thru.drl
